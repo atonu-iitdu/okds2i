@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
         <p>This Node.js application is running live inside your OpenShift cluster.</p>
         <div class="info">
           <h3>Developer Profile:</h3>
-          <p><strong>Name:</strong> Atonu Saha</p>
+          <p><strong>Name:</strong> Jaber Bahi</p>
           <p><strong>Environment:</strong> OpenShift / OKD Cluster</p>
           <p><strong>Runtime:</strong> Node.js (Express)</p>
         </div>
